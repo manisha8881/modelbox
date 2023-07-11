@@ -1,0 +1,10 @@
+
+  .navbar-white-icon {
+    background-image: url('F:\react\modelbox\public\menu (1).png'); /* Replace with your own icon */
+    background-repeat: no-repeat;
+    background-size: contain;
+    width:35px; /* Adjust the width as needed */
+    height: 35px; /* Adjust the height as needed */
+    filter: brightness(100); /* Optional: To ensure the icon is displayed in white color */
+  }
+  

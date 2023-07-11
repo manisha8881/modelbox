@@ -1,0 +1,273 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.main{
+    margin-top:30px;
+}
+
+  @media (max-width: 512px) {
+    .btn-group {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .btn-group .btn{
+        width:90%;
+    }
+    .btn-group button {
+      margin:6px 0px;
+    }
+    .sub3
+    {
+        display: flex;
+        justify-content: center;
+    
+    }
+    .sub4 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+  
+    .sub4 button {
+      width:90%;
+      margin-bottom: 10px;
+    }
+    .sub5 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .sub5 button {
+      width:100%;
+      margin-bottom: 10px;
+    }
+    .Cbtn{
+        width:90%;
+    }
+    .box1 {
+        width:100%;
+        
+      
+      }
+      .box2{
+          width:100%;
+          
+          
+      }
+
+  }
+  @media (max-width: 576px) {
+    .sub3
+    {
+        display: flex;
+        justify-content: center;
+    
+    }
+    .Cbtn {
+      width: 90%;
+    }
+    .sub4 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-top:10px;
+    }
+  
+    .sub4 button {
+        width:100%;
+        margin-bottom:5px;
+    } 
+    
+     .sub5 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top:10px;
+      }
+    
+      .sub5 button {
+          width:100%;
+          margin-bottom:5px;
+      } 
+      /* .sub5 {
+        
+        width:100%;
+        padding-top:13px;
+        padding-bottom:13px;
+        display:inline-block;
+    
+      }
+    .sub5 button
+    {
+        width:31%;
+        margin-left:5px;
+    } */
+      .box1 {
+        width:100%;
+        
+      
+      }
+      .box2{
+          width:100%;
+          
+          
+      }
+     
+   
+  }
+  
+@media (min-width: 576px) {
+   /*For screens with a minimum width of 576px (e.g., tablets) */
+    .main
+    {
+        padding:0px;
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+
+        
+    }
+    .box1 {
+      width:100%;
+    }
+    .box2{
+        width:100%; 
+    }
+    .Cbtn{
+        width:100%;
+    }
+      /* .sub4 {
+        
+        width:100%;
+        display:flex;
+        margin-bottom:5px;
+        justify-content:space-evenly;
+        border:2px solid green;
+    
+      }
+    .sub4 button
+    {
+        width:49%;
+        margin-left:5px;
+    } */
+    .sub4 {
+      display: flex;
+      justify-content: space-evenly;
+    }
+  
+    .sub4 button {
+        width:48%;
+        margin-bottom:5px;
+    }  
+      /* .sub5 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+    
+      .sub5 button {
+          width: 100%;
+        margin: 6px;
+      } */
+      .sub5 {
+        
+        width:100%;
+        padding-top:13px;
+        padding-bottom:13px;
+        display:inline-block;
+    
+      }
+    .sub5 button
+    {
+        width:31%;
+        margin-left:5px;
+    }
+  }
+
+  @media (min-width: 992px) {
+    /* For screens with a minimum width of 992px (e.g., laptops and desktops) */
+    .main
+    {
+        width:100%;
+        display: flex;
+        align-items: flex-start;
+        flex-direction:row;
+        flex-wrap: wrap;
+        box-sizing: border-box;
+    
+        margin-bottom:3em;
+    
+    }
+    .main-box .sub1
+    {   
+
+        width:100%;
+        padding:13px;
+    
+    }
+    .main-box .sub2
+    {   
+    
+        width:100%;
+        padding:13px;
+    
+    }
+    .main-box .sub3
+    {   
+
+        width:100%;
+        padding:13px;
+    
+    }
+    .sub4 {
+      display: flex;
+      justify-content: space-evenly;
+
+    }
+  
+    .sub4 button {
+        width:48%;
+        margin-bottom:5px;
+    }  
+   
+    .sub5 {
+        
+        width:100%;
+        padding-top:13px;
+        padding-bottom:13px;
+        display:inline-block;
+    
+      }
+    .sub5 button
+    {
+        width:31%;
+        margin-left:5px;
+    }
+    .sub6 {
+        
+        width:100%;
+        padding:13px;
+      }
+    .Cbtn{
+        width:100%;
+    }
+
+    .box1 {
+        width:60%;
+        height:100%;
+        
+      }
+    .box2{
+          width:40%;
+          height:100%;
+          margin-top:0px;
+          
+      }
+      
+  }
+ 
