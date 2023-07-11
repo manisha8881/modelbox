@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/modelbox/static/css/main.a63bb5d5.css",
+    "main.js": "/modelbox/static/js/main.80660040.js",
+    "static/js/787.217fecfd.chunk.js": "/modelbox/static/js/787.217fecfd.chunk.js",
+    "index.html": "/modelbox/index.html",
+    "main.a63bb5d5.css.map": "/modelbox/static/css/main.a63bb5d5.css.map",
+    "main.80660040.js.map": "/modelbox/static/js/main.80660040.js.map",
+    "787.217fecfd.chunk.js.map": "/modelbox/static/js/787.217fecfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a63bb5d5.css",
+    "static/js/main.80660040.js"
+  ]
+}
